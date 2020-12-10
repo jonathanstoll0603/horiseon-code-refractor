@@ -8,16 +8,22 @@ For this project, I will be tackling the current Horiseon website in order to id
 
 Into today's age, almost every single person on the planet has access to the internet. This also includes individuals with disabilities and older technologies. It is imperative that every website and application follow proper accesibility standards in order to accomodate these groups of people. Not only will improved accesibility give your website higher standing on search engines like Google, but it could also reduce the parent site's chance of lawsuits. 
 
-Additionally, it is extremely important to improve one's code to reflect the ever changing dynamics of the internet. For this reason, I will be refractoring the semantic markdown to better improve the flow and understanding of the html code, as well as the struture of the css elements. Without proper markdown and organization, it can become extremely confusing for fellow programmers to read and improve the website's dynamics.
+Throughout this project, I learned how critical it is to improve one's existing code in order to reflect the ever changing ecosystem of the internet. While researching a broad range of material that assisted in explaining semantic markdown, I was made aware of a few new tags being widely used today. A few of these tags include the <header> and <nav> elements that clearly show a developer where the code containing the header and navigation sections belong. Additionally, body tags such as <main>, <section>, <aside>, and <article> do a more efficient job of breaking the site into easily digestible pieces. 
+
+By the end of this project, I had a vastly better idea of how to improve the flow and understanding of my html code, as well as the organization of the css elements. Without proper markdown, structure, and notes to fellow developers, it can become extremely confusing for another person on the team to follow and adapt to a website's dynamics.
 
 ## Credits
 
-For this project, I used many resources from developer sites in order to help me gain a broader understanding of the requirements I would be fullfilling. The following sources can be found below:
+For this project, I used a few resources from developer sites in order to help me gain a broader understanding of the requirements I would be fullfilling. The following sources can be found below:
 
-https://moz.com/learn/seo/alt-text
+[Moz](https://moz.com/learn/seo/alt-text)
 
-https://www.w3schools.com/html/html_accessibility.asp
+[w3schools website](https://www.w3schools.com/html/html_accessibility.asp)
 
-## License 
+[MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines)
 
-GNU General Public License v3.0
+## Links
+
+[Live URL](https://jonathanstoll0603.github.io/horiseon-code-refractor/)
+
+[Github URL](https://github.com/jonathanstoll0603/horiseon-code-refractor)

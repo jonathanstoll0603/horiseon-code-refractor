@@ -80,12 +80,13 @@ p {
     color: #ffffff;
 }
 
-
+/* Images that float left of the text */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Images that float right of the text */
 .float-right {
     float: right;
     margin-left: 25px;
