@@ -12,6 +12,8 @@ Throughout this project, I learned how critical it is to improve one's existing 
 
 By the end of this project, I had a vastly better idea of how to improve the flow and understanding of my html code, as well as the organization of the css elements. Without proper markdown, structure, and notes to fellow developers, it can become extremely confusing for another person on the team to follow and adapt to a website's dynamics.
 
+![Finished Website](css\images\website-image.png)
+
 ## Credits
 
 For this project, I used a few resources from developer sites in order to help me gain a broader understanding of the requirements I would be fullfilling. The following sources can be found below:
